@@ -1,4 +1,4 @@
-# MovieSentimentAnalyser
+# Movie Sentiment Analyser
 NLP simple project using NLTK
 
 ### Introduction: 
